@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Atlanta-XPO</name>
+   <tag></tag>
+   <elementGuidId>492ca9e5-b901-43bc-87da-d4792a093d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory-table']/div[2]/div/div[6]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10ff586d-6882-4410-a4be-597dd264743d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell odd hover</value>
+      <webElementGuid>bf7b2616-bf67-4344-bab0-d92d9b01ee0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atlanta-XPO</value>
+      <webElementGuid>895667c8-64d8-4429-81a5-ae6793dd55a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inventory-table&quot;)/div[@class=&quot;grid-scroll&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;column-body blue&quot;]/div[@class=&quot;cell odd hover&quot;]</value>
+      <webElementGuid>6332cf04-6fb7-4dfc-a8d3-23fec46ae563</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory-table']/div[2]/div/div[6]/div[4]</value>
+      <webElementGuid>6a41dc2d-bdeb-42a4-9c20-67ccd38d8861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atlanta-XPO'])[3]/following::div[1]</value>
+      <webElementGuid>b9ecbffe-2794-4cbc-86cf-88debb3f8348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atlanta-XPO'])[2]/following::div[2]</value>
+      <webElementGuid>2006b26c-ad95-4410-b098-1cc181bdb993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baltimore-Seagirt Marine'])[1]/preceding::div[1]</value>
+      <webElementGuid>e182f1d6-f546-488b-883d-5a9d83fdc307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baltimore-Seagirt Marine'])[2]/preceding::div[2]</value>
+      <webElementGuid>ad626220-8284-44ef-b63d-f040a1ec250f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[4]</value>
+      <webElementGuid>fcca8964-0cd6-4221-842b-0055223e376f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Atlanta-XPO' or . = 'Atlanta-XPO')]</value>
+      <webElementGuid>425a7501-d9e2-4f31-be40-7829c6378076</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

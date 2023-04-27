@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Invite</name>
+   <tag></tag>
+   <elementGuidId>07cf7532-997f-4fe1-8a19-2a494b851c62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.invite</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inviteUsers']/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>323afc4e-c7ba-48fe-ae05-f1b2f9eb61e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default invite</value>
+      <webElementGuid>5d41cee4-c889-4637-9840-ac9804dc30a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invite</value>
+      <webElementGuid>8d99451c-6395-4a6b-a7a2-b4e92d334267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inviteUsers&quot;)/div[@class=&quot;table-actions clearfix&quot;]/div[@class=&quot;buttons-bar-main&quot;]/div[@class=&quot;btn-group btn-group-sm btn-spacer&quot;]/button[@class=&quot;btn btn-default invite&quot;]</value>
+      <webElementGuid>f14926c9-bce4-44f0-b584-d0daa4c93c57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inviteUsers']/div/div[2]/div/button</value>
+      <webElementGuid>213cdd61-bc29-40c3-8d27-7a44c55e8d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[3]/following::button[1]</value>
+      <webElementGuid>89277e9d-edf7-4aa2-9292-aafae2ae63fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend'])[1]/preceding::button[1]</value>
+      <webElementGuid>3471cc76-36eb-4443-9b0a-e81dfd809e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[2]</value>
+      <webElementGuid>aed387ae-6345-4a88-8706-a45d38380ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invite']/parent::*</value>
+      <webElementGuid>af27a3c6-fb13-4306-b4ca-9c29c51d7567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/button</value>
+      <webElementGuid>bac73c48-3c37-4c50-84e5-766f44cc894b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Invite' or . = 'Invite')]</value>
+      <webElementGuid>49a02e58-15d9-4557-8bea-4f657bb7559c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

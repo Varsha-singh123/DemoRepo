@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload</name>
+   <tag></tag>
+   <elementGuidId>d07fc75b-1dc4-485c-a921-20382e9cb5a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-buttons-wrap > button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15dfe836-f7e0-46b6-9d55-a47c1827bb9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0b7b7adb-ebe2-4644-91a1-32da212c4fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>673b5308-bf6c-4168-9910-f70c41a102bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>3f292822-5f28-4003-9cbe-b582d13975cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open page-overflow&quot;]/div[@class=&quot;modal-scrollable&quot;]/div[@class=&quot;bootstrap modal in&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;modal-buttons-wrap&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>739b77a2-a2f8-4bfd-aa16-1f3a6cf463a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>3fa83fc0-8cdf-43a9-b21d-b02be2b90a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AllotmentUpload20230424_1943.xlsx'])[1]/following::button[1]</value>
+      <webElementGuid>6aba6de0-2535-4cc5-8ebe-de4ff311d947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::button[1]</value>
+      <webElementGuid>2610cfd6-9ec1-4762-a551-0466c538d664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[58]/preceding::button[1]</value>
+      <webElementGuid>639cbf4b-be64-43a6-9631-6cc9011e17d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>1799c385-ed6e-4828-96fe-3d56acac8c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[121]/div/div[3]/div/button</value>
+      <webElementGuid>995fd38e-0b15-407d-bc26-4b1733e6d966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>6e48bc2b-b4b6-4d2f-af94-706c3a2ddf26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

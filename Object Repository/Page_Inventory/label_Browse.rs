@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Browse</name>
+   <tag></tag>
+   <elementGuidId>03da4905-e71f-4281-a0ce-7221d7a14850</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='performTierAllotmentUploadDlg']/form/div[2]/div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e9ec5ea9-5a7b-4b93-a344-e2e156f4d1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>921a21a4-0c4b-4a9b-8ee6-05f0abb8053e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Browse 
+                    </value>
+      <webElementGuid>58a6948b-3175-4f5b-a547-68815905d4c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;performTierAllotmentUploadDlg&quot;)/form[1]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-6&quot;]/label[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>a84828d5-2d41-4b10-aecb-4e12ecb9d954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='performTierAllotmentUploadDlg']/form/div[2]/div[3]/div/label</value>
+      <webElementGuid>39d670ab-7b4c-4457-b8d0-8fbd756d18bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::label[1]</value>
+      <webElementGuid>5935f480-08fc-4975-b626-9d89ae09281c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::label[1]</value>
+      <webElementGuid>d1a49396-4e0c-4fc6-8373-345d9fd719e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[58]/preceding::label[1]</value>
+      <webElementGuid>a7d2796c-87d3-430d-8aea-096f2c0ed733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse']/parent::*</value>
+      <webElementGuid>2bca0c81-34e9-4c02-bcac-1b2ee608ef5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>eb7f5dcc-da31-4d83-9e27-d881e0b23893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                        Browse 
+                    ' or . = '
+                        Browse 
+                    ')]</value>
+      <webElementGuid>c44d4034-b1bf-428e-b665-795109cbe128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Varsha Singh</name>
+   <tag></tag>
+   <elementGuidId>447acdf4-8a6c-4025-aab4-1e8b990473e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='user-header-dropdown-name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#user-header-dropdown-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d70171a-2d76-488f-857a-5268570a075b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user-header-dropdown-name</value>
+      <webElementGuid>b319e785-5eb5-4220-8491-fc788ae8f6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Varsha Singh</value>
+      <webElementGuid>bce1855b-d35a-4097-a179-a8440061e45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-header-dropdown-name&quot;)</value>
+      <webElementGuid>ef294e5d-70f5-4aab-9b8c-a44e1880f13a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='user-header-dropdown-name']</value>
+      <webElementGuid>19a582cf-ae32-4b20-a83d-f29be57046fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='user-header-dropdown']/span</value>
+      <webElementGuid>3320bf22-86e7-4c7b-b8aa-c6d76363832b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interline Rail Schedules'])[1]/following::span[1]</value>
+      <webElementGuid>00390c4e-739b-41f6-8ad4-5b871cc10c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help and Policies'])[1]/following::span[1]</value>
+      <webElementGuid>9c789ca3-1c8e-4d65-93d6-edf169aa7c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='varsha.singh@blumeglobal.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>25b82f3b-8448-469a-b274-15ffe5caea8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[1]/preceding::span[3]</value>
+      <webElementGuid>41cdf2ed-5028-4b5c-8a4c-081b08480445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Varsha Singh']/parent::*</value>
+      <webElementGuid>b1715662-51b5-4813-821c-e8cca20aaec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>fa517cf0-7d4c-4f6f-8998-60236d68bfcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'user-header-dropdown-name' and (text() = 'Varsha Singh' or . = 'Varsha Singh')]</value>
+      <webElementGuid>31d267aa-db33-408e-bb62-acece02e87bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

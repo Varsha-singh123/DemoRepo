@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_checkbox_1</name>
+   <tag></tag>
+   <elementGuidId>d2c2f5ca-dbd7-4260-a7c1-cd55643a079b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.thm-list > li:nth-of-type(2) > input[type=&quot;checkbox&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[75]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3863534b-03b1-4097-bcb0-e4f911bcdf30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>7e77c591-1112-4146-85d5-f55fd24d22b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bootstrap thm-dropdown&quot;]/ul[@class=&quot;thm-list&quot;]/li[2]/input[1]</value>
+      <webElementGuid>7327c14e-72a2-4e27-8fa7-cab5b37786ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[75]</value>
+      <webElementGuid>d7f741a2-8373-4705-baf9-db70c0297c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/ul/li[2]/input</value>
+      <webElementGuid>43087cdc-3f45-4a95-809d-c3aff71f33cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>4e26df40-4cfd-4ddd-b884-44c8f2008c9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

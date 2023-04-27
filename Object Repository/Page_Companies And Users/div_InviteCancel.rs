@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_InviteCancel</name>
+   <tag></tag>
+   <elementGuidId>922bc64e-ad42-41ef-863b-4b5c478bd3d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-footer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b40ec647-8399-42c3-94b1-5887024f76d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-footer</value>
+      <webElementGuid>7abd936b-4550-437e-ba26-eac94ccdae91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>InviteCancel</value>
+      <webElementGuid>f70f7f08-09a7-45b1-a8d0-c56a3ad82101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open page-overflow&quot;]/div[@class=&quot;modal-scrollable&quot;]/div[@class=&quot;bootstrap modal in&quot;]/div[@class=&quot;modal-footer&quot;]</value>
+      <webElementGuid>d4f10c10-a5c4-4102-adaa-5c0b2230778d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>7c7a034a-c855-4fb5-97b2-30e926efe5a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[50]/div/div[3]</value>
+      <webElementGuid>b601256c-61b4-438e-82d7-a1be9aca84c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'InviteCancel' or . = 'InviteCancel')]</value>
+      <webElementGuid>59911053-1c91-4b74-a967-a7eb8fd047af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

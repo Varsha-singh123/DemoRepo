@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Todays Standbys</name>
+   <tag></tag>
+   <elementGuidId>6d7c7fd8-765f-497c-9843-317ff392ad25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.todayStandby.yellow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='rampDetailTabs']/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3b7c769-ebb3-4319-894d-d060cdd96755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>todayStandby yellow</value>
+      <webElementGuid>0165e06d-8706-4afd-9399-055a40316d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#todayStandby</value>
+      <webElementGuid>84dd4ff9-ba06-4512-86e3-7d90dc11c3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>e5cffbe6-ec87-45b1-a4aa-48e0af9c23e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today's Standbys</value>
+      <webElementGuid>34dff4b7-0922-44ef-bc50-59aed22ef6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rampDetailTabs&quot;)/li[10]/a[@class=&quot;todayStandby yellow&quot;]</value>
+      <webElementGuid>b5d602c6-412a-4a38-af6b-736567ac8809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rampDetailTabs']/li[10]/a</value>
+      <webElementGuid>164a2905-74b8-4f08-b941-880834252f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Today', &quot;'&quot;, 's Adv Bks')])[1]/following::a[1]</value>
+      <webElementGuid>bd8c88ec-0fcc-47d5-bf90-24411743a61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Future Reqs'])[1]/preceding::a[1]</value>
+      <webElementGuid>22a330ce-ddd5-4773-85ca-eb80badc768b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empties on Ground'])[2]/preceding::a[2]</value>
+      <webElementGuid>86b053f8-4522-41d5-97e6-9048b0e2e1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#todayStandby')]</value>
+      <webElementGuid>75066d4b-ff8e-4461-95b9-ac3f513da655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[10]/a</value>
+      <webElementGuid>abd564f3-141b-4fff-ac0f-f3d18b387f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#todayStandby' and (text() = concat(&quot;Today&quot; , &quot;'&quot; , &quot;s Standbys&quot;) or . = concat(&quot;Today&quot; , &quot;'&quot; , &quot;s Standbys&quot;))]</value>
+      <webElementGuid>2820fa88-3fb4-48ca-b424-f25288adca1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

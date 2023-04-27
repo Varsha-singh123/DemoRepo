@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>c9b16b1b-1b1c-4a94-81be-82af944292c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap.modal.in > div.modal-footer > div.modal-buttons-wrap > button.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ef9d34e-1abb-4b07-8d27-03e528836e10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>59387829-3bc1-4ae6-9afd-171724d66ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>3c393709-306c-423f-8f30-c0ccfda5fa96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open page-overflow&quot;]/div[@class=&quot;modal-scrollable&quot;]/div[@class=&quot;bootstrap modal in&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;modal-buttons-wrap&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>f207ca5e-6077-461e-ab63-7d34635a4219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>575705b2-4941-427a-b7c6-dcea8b33f90b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>a948b6ef-d3ee-4686-b255-b5c683ab4ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Invitation sent to ', '&quot;', 'Varsha.singh@blumeglobal.com', '&quot;', '')])[1]/following::button[1]</value>
+      <webElementGuid>122d3c9b-e2ab-49f4-a5a7-7688fc75325b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::button[1]</value>
+      <webElementGuid>ee28015c-e3b4-4e3c-abd4-0d24e0f5a975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[50]/div/div[3]/div/button</value>
+      <webElementGuid>e2335830-929d-4735-abcf-8c7b885c66b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>f5c45c44-e1e6-4f95-bc40-962a98453f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- blank -'])[11]/following::button[1]</value>
+      <webElementGuid>b1db2432-6868-477d-9097-7d015a4fbd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[5]/following::button[1]</value>
+      <webElementGuid>07c2dc10-a0e0-4534-8397-d2d38c91767f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[12]/preceding::button[1]</value>
+      <webElementGuid>c1bfa8e1-95a6-4a5a-91ab-c6367b593cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more'])[13]/preceding::button[2]</value>
+      <webElementGuid>6d1bbd42-1899-4ab0-bc0e-166aa87edf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[28]/div[2]/button</value>
+      <webElementGuid>d34c16f8-7031-4ded-b757-f1edef60c951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>f82c0217-d189-4e36-89b8-1f241a5070eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

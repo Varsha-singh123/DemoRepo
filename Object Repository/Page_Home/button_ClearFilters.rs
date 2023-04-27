@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ClearFilters</name>
+   <tag></tag>
+   <elementGuidId>28625316-7703-4925-b947-78850ee3ae10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='homePageWrapper']/div[3]/div/div[4]/div/button[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-default.always-enabled.clear-filters</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5defd66a-2553-4e02-ab45-1775952183f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default always-enabled clear-filters</value>
+      <webElementGuid>182a08f2-4637-48d7-a17d-e5aeaf42ea67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear
+									Filters</value>
+      <webElementGuid>510de7df-417d-47b2-8f69-035bf4cafc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homePageWrapper&quot;)/div[@class=&quot;homepage-favorites-table&quot;]/div[@class=&quot;buttons-bar-main&quot;]/div[@class=&quot;pull-right favoritesBlock opened&quot;]/div[@class=&quot;favoritesAddBlock&quot;]/button[@class=&quot;btn btn-sm btn-default always-enabled clear-filters&quot;]</value>
+      <webElementGuid>fe8a3794-6116-41d1-bc85-3f589572d0df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homePageWrapper']/div[3]/div/div[4]/div/button[4]</value>
+      <webElementGuid>919150ca-566b-405c-9bf8-891b1065d84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[1]/following::button[1]</value>
+      <webElementGuid>3aa8d2e9-e009-4e1d-8dac-5ad1e7e77533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::button[1]</value>
+      <webElementGuid>ac58514c-9b6d-460a-a13c-857faefcb4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::button[2]</value>
+      <webElementGuid>4b7896ae-b86f-43d1-aa7c-d7e65c412ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>ffe6a994-07ad-4924-b2d9-8d73f275f661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Clear
+									Filters' or . = 'Clear
+									Filters')]</value>
+      <webElementGuid>764cdfda-642f-49ff-bf08-a6391fc2b18b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

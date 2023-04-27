@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Dev_Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_AO@blumeglobal.com'</initValue>
+      <name>AO_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_MOTORCARRIER@blumeglobal.com '</initValue>
+      <name>MotorCarrier</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_SHIPPER@blumeglobal.com'</initValue>
+      <name>Auto_Shipper</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_HRTX@blumeglobal.com'</initValue>
+      <name>HRTX_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_SUPER@blumeglobal.com'</initValue>
+      <name>Super_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_MOTORCARRIER2@blumeglobal.com'</initValue>
+      <name>MotorCarrier_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Autopass@5'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Varsha.singh@blumeglobal.com'</initValue>
+      <name>Admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Testuser!12345678'</initValue>
+      <name>Admin_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://alcmint.rez1.com/externalx/'</initValue>
+      <name>Dev_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

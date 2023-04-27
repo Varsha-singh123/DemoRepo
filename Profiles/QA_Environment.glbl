@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA_Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_AO@blumeglobal.com'</initValue>
+      <name>AO_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_MOTORCARRIER@blumeglobal.com '</initValue>
+      <name>MotorCarrier</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_SHIPPER@blumeglobal.com'</initValue>
+      <name>Auto_Shipper</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_HRTX@blumeglobal.com'</initValue>
+      <name>HRTX_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_SUPER@blumeglobal.com'</initValue>
+      <name>Super_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTO_MOTORCARRIER2@blumeglobal.com'</initValue>
+      <name>MotorCarrier_2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'+1uxu4rPLE7oDBBDRqV8uA=='</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Varsha.singh@blumeglobal.com'</initValue>
+      <name>Admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mq0XerdhNgHzs1h+sOxJSat5cZpyNaer'</initValue>
+      <name>Admin_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://alcmtest.rez1.com/externalx/'</initValue>
+      <name>QA_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

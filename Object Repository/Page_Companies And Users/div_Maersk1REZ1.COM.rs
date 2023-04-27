@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Maersk1REZ1.COM</name>
+   <tag></tag>
+   <elementGuidId>bfaddc1f-1408-40fa-87f4-988e941d450c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='users']/div[2]/div[4]/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2f3963d-c43a-4a52-a785-a144096db346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell even hover</value>
+      <webElementGuid>3ae02491-1279-4b50-8952-113d5056d5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maersk1@REZ1.COM</value>
+      <webElementGuid>85f24dd9-bd1f-49ae-889a-815c15e2cbc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users&quot;)/div[@class=&quot;table-area split clearfix&quot;]/div[@class=&quot;grid-container multi-select&quot;]/div[@class=&quot;grid-scroll&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;column-body&quot;]/div[@class=&quot;cell even hover&quot;]</value>
+      <webElementGuid>7969729d-8b19-4da6-8f2f-a280f5c815cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users']/div[2]/div[4]/div[2]/div/div[3]/div</value>
+      <webElementGuid>44757545-5ef0-4800-add9-fde688a1dbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maersk Maersk'])[1]/following::div[2]</value>
+      <webElementGuid>f6743598-6123-43bd-8145-15b728c661c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enabled?'])[2]/following::div[10]</value>
+      <webElementGuid>a9c1ad3e-62c2-4242-8be1-bec01041f847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maersk Domestic'])[1]/preceding::div[3]</value>
+      <webElementGuid>8e63b03c-a016-486b-9e67-304c8edbbf3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maersk Domestic'])[2]/preceding::div[5]</value>
+      <webElementGuid>5f4d8801-9b65-4f25-88b0-6dabf69f5947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maersk1@REZ1.COM']/parent::*</value>
+      <webElementGuid>d02d2a45-61bd-4307-baec-810e219e44a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[3]/div</value>
+      <webElementGuid>f2b6e09f-bf6a-4401-a3a4-203586dda6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Maersk1@REZ1.COM' or . = 'Maersk1@REZ1.COM')]</value>
+      <webElementGuid>c18bf864-b186-4473-b451-35687973af1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

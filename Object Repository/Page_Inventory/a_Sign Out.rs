@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>cbd0e6ed-0049-451c-88b4-1401d71c3961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='logout-link']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#logout-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cb793f3-c0ed-4d23-a34c-eefcba89f30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>logout-link</value>
+      <webElementGuid>ed84fa3e-609c-4395-ac73-93d482613c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/externalx/logout/cas</value>
+      <webElementGuid>c661f3a1-d545-48f1-98ad-886404d26ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>cae9a26d-aa89-4a98-a9da-1b8148e6d768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;logout-link&quot;)</value>
+      <webElementGuid>b382552d-97bd-4aea-a5c2-f6ebad632f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='logout-link']</value>
+      <webElementGuid>fa408fdd-8081-4051-8e16-e5ba2b33884c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Out')]</value>
+      <webElementGuid>ea254f0e-5e4a-4e0e-8a5d-dcce89aa7247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='varsha.singh@blumeglobal.com'])[1]/following::a[2]</value>
+      <webElementGuid>3ca9e127-48e8-424f-9798-0f6618089db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Varsha Singh'])[1]/following::a[2]</value>
+      <webElementGuid>6e74dadf-9d54-4338-a2e1-8e38b8d6c8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[1]</value>
+      <webElementGuid>1f395422-f170-44c5-9b7e-600780e5fdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventories'])[2]/preceding::a[2]</value>
+      <webElementGuid>9f4c2b07-acb5-4493-ba10-ecb9bb00a258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>d62a5e6b-e782-4d71-a365-b15ad7b6418f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/externalx/logout/cas')]</value>
+      <webElementGuid>69162bd8-5c06-4713-a061-7490ebfd8244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/a</value>
+      <webElementGuid>16cb49fc-a5f2-4c4a-8058-605514c8f584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'logout-link' and @href = '/externalx/logout/cas' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>94289556-f6ac-40ee-b6c7-dc7e6f2f0e6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

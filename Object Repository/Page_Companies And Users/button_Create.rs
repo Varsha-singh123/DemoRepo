@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create</name>
+   <tag></tag>
+   <elementGuidId>1e189dd4-56e7-476a-9e55-7b67f61a53ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.createUser</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='users']/div[2]/div[3]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>554747dc-9d07-45fa-95ed-931b22683ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default createUser</value>
+      <webElementGuid>786c0272-ffda-4499-ab28-e49fcbde6539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create</value>
+      <webElementGuid>50e46b65-61fd-4fee-b5fe-564faf7e5f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users&quot;)/div[@class=&quot;table-area split clearfix&quot;]/div[@class=&quot;table-actions clearfix&quot;]/div[@class=&quot;buttons-bar-main&quot;]/div[@class=&quot;btn-group btn-group-sm btn-spacer&quot;]/button[@class=&quot;btn btn-default createUser&quot;]</value>
+      <webElementGuid>56e9ec58-77e7-4bab-b34c-c2da668bbe5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users']/div[2]/div[3]/div[2]/div/button</value>
+      <webElementGuid>23ec329e-80b1-4b34-8624-e3af218b501d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columns'])[2]/following::button[1]</value>
+      <webElementGuid>7b4bf996-8a18-4ceb-b4b1-7f161c7835f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::button[1]</value>
+      <webElementGuid>bc0a723e-24cf-4fd3-a1d4-3c23677cdedb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/preceding::button[2]</value>
+      <webElementGuid>2a4aec79-5cd3-4e3d-90ab-0cb4ee3819cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
+      <webElementGuid>fefec5e2-4f28-4a9e-bca7-ef85083ed0ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/button</value>
+      <webElementGuid>c60a3fc2-fec2-431e-8334-88775992f1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Create' or . = 'Create')]</value>
+      <webElementGuid>5ddb65e6-3baf-48cb-a195-fe8ab8342415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

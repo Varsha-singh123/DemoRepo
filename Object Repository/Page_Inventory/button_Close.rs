@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>64838fef-df74-40dd-86fb-6a5d43ead60b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap.modal.in > div.modal-footer > div.modal-buttons-wrap > button.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d5ea6e6b-4c76-46d2-87af-3406dbe7c7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>017d14dc-f82e-40e0-96b8-37714914fc81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>5a10a6bd-ce32-4fe6-a076-7d5019186435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>d4e5c177-f8c4-462e-9546-4f135722f57a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open page-overflow&quot;]/div[@class=&quot;modal-scrollable&quot;]/div[@class=&quot;bootstrap modal in&quot;]/div[@class=&quot;modal-footer&quot;]/div[@class=&quot;modal-buttons-wrap&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>cca47399-d809-47a0-9b42-2a35bb44444d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[26]</value>
+      <webElementGuid>d1bef58c-912f-4a4f-a94a-c58fd771ebc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Now'])[4]/following::button[1]</value>
+      <webElementGuid>a1d81891-090b-48b3-9959-c6146224d157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data available in table'])[1]/following::button[2]</value>
+      <webElementGuid>a3d752d9-458c-4cb0-9b79-5f6b438be50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
+      <webElementGuid>c8bba7b0-1b14-413b-bd20-4fb1ed7ed4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[180]/div/div[3]/div/button[2]</value>
+      <webElementGuid>85209aec-a4a9-4f3f-8a67-22324ea41a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>cb203e1f-906a-4f83-9760-ea6c128a8cab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

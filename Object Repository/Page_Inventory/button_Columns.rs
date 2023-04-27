@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Columns</name>
+   <tag></tag>
+   <elementGuidId>d03a746d-7034-4259-b47a-cff5c2f3b5a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.columns-manager.dropdown > button.btn.btn-sm.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ramp']/div[3]/div[2]/div/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9deb2c9-aca5-4356-81e8-bd9a90ded58d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>2542ac81-3c33-4bc1-8898-d8b02adc3cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Columns</value>
+      <webElementGuid>046b27b3-9201-4f90-be60-da05505a6a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ramp&quot;)/div[@class=&quot;table-area split clearfix&quot;]/div[@class=&quot;top-part&quot;]/div[@class=&quot;pane-wrap clearfix&quot;]/div[@class=&quot;table-actions clearfix&quot;]/div[@class=&quot;buttons-bar-right bar-right-inventory&quot;]/div[@class=&quot;columns-manager-button&quot;]/div[@class=&quot;columns-manager dropdown&quot;]/button[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>468a53df-2654-4063-bf78-9936b1217c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ramp']/div[3]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>7d1a9a83-6580-47e1-83b8-98a30530625d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::button[3]</value>
+      <webElementGuid>85c5887b-2fea-40fe-8730-25c4552a2e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create:'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b7b8d4f-d008-412e-a9ea-b6334f5e27b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generic Hold'])[1]/preceding::button[1]</value>
+      <webElementGuid>fd93acfe-d9a3-4033-a153-77620081e21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Columns']/parent::*</value>
+      <webElementGuid>9df47f72-6fcc-4389-ac1e-89944c8b4cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>52c91c0c-29ca-41e2-b42c-026df6c579d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Columns' or . = ' Columns')]</value>
+      <webElementGuid>2a0f8770-2a8b-483e-a1bc-fee561454c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

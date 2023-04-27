@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Email_fa fa-filter</name>
+   <tag></tag>
+   <elementGuidId>2c83a589-fc72-4de0-9f77-daca1ffbab8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[39]/div/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>35dafa9c-4f07-43d9-8af6-36dfe4ac15a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>d02ef6c1-3de4-408a-87bb-0dcc3fab9828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open page-overflow&quot;]/div[@class=&quot;modal-scrollable&quot;]/div[@class=&quot;bootstrap modal modal-overflow in&quot;]/div[@class=&quot;modal-header draggable&quot;]/button[@class=&quot;close&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>5e345b07-94ef-4635-b2a1-a97e6355ddb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[39]/div/div/button/i</value>
+      <webElementGuid>c1d221b8-89e5-4960-9140-57828d84fad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='users']/div[2]/div[4]/div/div[3]/a/span/i</value>
+      <webElementGuid>0b05e188-7e39-443b-847d-1e163e5f2987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/a/span/i</value>
+      <webElementGuid>d8b70713-db1f-4465-a49b-b1cf863ed1b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

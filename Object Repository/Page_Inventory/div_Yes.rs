@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Yes</name>
+   <tag></tag>
+   <elementGuidId>e206c98b-e146-471d-a4b7-e540568d45fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inventory-table']/div[2]/div/div[40]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e46385b4-1c20-4ee0-b2b6-53ecfba9501d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell even hover</value>
+      <webElementGuid>c9fb89bc-05ad-4757-8d1b-e32c3457a6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>bbe3536b-1be1-4530-a3bb-6815bce0e474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inventory-table&quot;)/div[@class=&quot;grid-scroll&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;column-body blue&quot;]/div[@class=&quot;cell even hover&quot;]</value>
+      <webElementGuid>9580c4c0-5793-434c-b131-eaea675fa81a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inventory-table']/div[2]/div/div[40]/div</value>
+      <webElementGuid>8ba86b3d-abae-4b0a-9f82-4a0a02a373da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blocked'])[7]/following::div[194]</value>
+      <webElementGuid>ca855ff7-83ba-40c3-bdd4-7a48c25886ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blocked'])[6]/following::div[195]</value>
+      <webElementGuid>5d94faea-9675-4f23-8788-f5747e142dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/preceding::div[1]</value>
+      <webElementGuid>dfb1f695-c46b-4dbf-83ca-569db09a68e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[3]/preceding::div[2]</value>
+      <webElementGuid>b0be1404-a83b-4d0f-9e0d-4e54aeb08985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>cec79bb7-c622-44c4-bbff-ac340b6b30cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[40]/div</value>
+      <webElementGuid>47095ac7-1e29-4129-ae50-a9a401d69269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>3db1ae85-a0a4-4b65-b4b0-1efa81dbab7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
