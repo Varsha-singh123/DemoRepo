@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointOne</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\Varsha.Singh\OneDrive - Blume Global\Desktop\LoginData.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2023-04-28T14:26:45.112</taken-date>
+   <column-names>
+      <column-name>userName</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Varsha.singh@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "Mq0XerdhNgHzs1h+sOxJSat5cZpyNaer",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AUTO_MOTORCARRIER@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "+1uxu4rPLE7oDBBDRqV8uA\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AUTO_AO@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "+1uxu4rPLE7oDBBDRqV8uA\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

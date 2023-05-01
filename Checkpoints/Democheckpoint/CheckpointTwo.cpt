@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointTwo</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginData</source-url>
+   </source-info>
+   <taken-date>2023-04-28T14:44:12.731</taken-date>
+   <column-names>
+      <column-name>userName</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Varsha.singh@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "Mq0XerdhNgHzs1h+sOxJSat5cZpyNaer",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AUTO_MOTORCARRIER@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "+1uxu4rPLE7oDBBDRqV8uA\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AUTO_AO@blumeglobal.com",
+      "checked": false
+    },
+    {
+      "value": "+1uxu4rPLE7oDBBDRqV8uA\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

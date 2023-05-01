@@ -19,11 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('AM_Home/ReuseTestcaseLogin'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Inventory/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/body_var appList  nullfunction initLoad()co_aaa527'))
-
-WebUI.waitForPageLoad(20, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_Inventory/a_Home'))
 
 WebUI.click(findTestObject('Page_Home/b'))
 

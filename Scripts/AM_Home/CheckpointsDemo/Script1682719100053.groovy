@@ -17,28 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.QA_URL)
-
-WebUI.setText(findTestObject('Page_Login - CAS  Central Authentication Service/input_Username_username'), GlobalVariable.Super_User)
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - CAS  Central Authentication Service/input_Password_password'), 
-    GlobalVariable.PASSWORD)
-
-WebUI.click(findTestObject('Object Repository/Page_Login - CAS  Central Authentication Service/input_Password_submit'))
-
-WebUI.click(findTestObject('Page_Inventory/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/button_Columns'))
-
-WebUI.dragAndDropToObject(findTestObject('Page_Home/li_Metro'), findTestObject('Page_Home/li_Metro'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/button_Ok'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/button_Columns'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home/button_Restore Defaults'))
-
-WebUI.closeBrowser()
+WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Democheckpoint/CheckpointOne'), true)
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.Dev_URL)
+WebUI.navigateToUrl(GlobalVariable.QA_URL)
 
 WebUI.setText(findTestObject('Page_Login - CAS  Central Authentication Service/input_Username_username'), GlobalVariable.Super_User)
 
@@ -28,15 +28,17 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - CAS  Centr
 
 WebUI.click(findTestObject('Object Repository/Page_Login - CAS  Central Authentication Service/input_Password_submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Inventory/button_OK'))
-
 WebUI.click(findTestObject('Object Repository/Page_Inventory/a_Home'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Columns'))
 
+WebUI.click(findTestObject('Page_Home/a_Deselect All'))
+
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Ok'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Columns'))
+
+WebUI.acceptAlert()
 
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Restore Defaults'))
 
