@@ -8,9 +8,12 @@
    <dataFileGUID>27a49259-1838-4214-ba0e-b22bdfe43950</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>DBData</driver>
+   <driverClassName></driverClassName>
    <isInternalPath>false</isInternalPath>
-   <query></query>
+   <password></password>
+   <query>SELECT * FROM employees</query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
-   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
 </DataFileEntity>
