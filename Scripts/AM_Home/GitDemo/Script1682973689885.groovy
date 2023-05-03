@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.delay(10)
 
+WebUI.clickImage(findTestObject(null))
+

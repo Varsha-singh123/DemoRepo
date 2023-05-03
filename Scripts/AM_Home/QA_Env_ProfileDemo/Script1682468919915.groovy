@@ -38,8 +38,6 @@ WebUI.click(findTestObject('Object Repository/Page_Home/button_Ok'))
 
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Columns'))
 
-WebUI.acceptAlert()
-
 WebUI.click(findTestObject('Object Repository/Page_Home/button_Restore Defaults'))
 
 WebUI.closeBrowser()
